@@ -1,7 +1,7 @@
+# Bonjour, Monde
+
 Écrivez un programme qui dit « Bonjour, Monde » dans la console (stdout).
  
-----------------------------------------------------------------------
-
 ## CONSEILS
 
 Pour faire un programme Node.js, créez un nouveau fichier avec l’extension
